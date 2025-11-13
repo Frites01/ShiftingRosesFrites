@@ -86,6 +86,9 @@
 		// Food & Drink
 		/datum/supply_pack/food/drinks/beer,
 		/datum/supply_pack/food/drinks/onin,
+		/datum/supply_pack/food/drinks/saigamilk,
+		/datum/supply_pack/food/drinks/rtoper,
+		/datum/supply_pack/food/drinks/gronnmead,
 		// Tools
 		/datum/supply_pack/tools/lamptern,
 		/datum/supply_pack/tools/dyebin,

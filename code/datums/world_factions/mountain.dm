@@ -103,6 +103,9 @@
 		/datum/supply_pack/food/drinks/stonebeard,
 		/datum/supply_pack/food/drinks/grenzelbeer,
 		/datum/supply_pack/food/salami,
+		/datum/supply_pack/food/drinks/tiefling_wine,
+		/datum/supply_pack/food/drinks/apfelweinheim,
+		/datum/supply_pack/food/drinks/nred,
 		// Instruments
 		/datum/supply_pack/instruments/mbox,
 		/datum/supply_pack/instruments/vocals,

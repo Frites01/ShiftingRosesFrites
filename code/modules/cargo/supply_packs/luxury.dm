@@ -62,7 +62,7 @@
 	cost = 300
 	contains = /obj/item/clothing/neck/talkstone
 
-/datum/supply_pack/luxury/sigs
+/datum/supply_pack/luxury/zigs
 	name = "Pipe Weed Zig"
 	cost = 10
 	contains = /obj/item/clothing/face/cigarette/rollie/nicotine

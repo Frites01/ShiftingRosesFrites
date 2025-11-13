@@ -92,7 +92,7 @@
 	contains = /obj/item/reagent_containers/glass/bottle/tiefling_wine
 
 /datum/supply_pack/food/drinks/jagdtrunk
-	name = "Zaladin Wine"
+	name = "Herbal wine"
 	cost = 35
 	contains = /obj/item/reagent_containers/glass/bottle/jagdtrunk
 

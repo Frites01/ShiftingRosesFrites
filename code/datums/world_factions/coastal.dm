@@ -91,6 +91,10 @@
 		/datum/supply_pack/food/angler,
 		/datum/supply_pack/food/drinks/winezaladin,
 		/datum/supply_pack/food/drinks/winegrenzel,
+		/datum/supply_pack/food/drinks/jagdtrunk,
+		/datum/supply_pack/food/drinks/apfelweinheim,
+		/datum/supply_pack/food/drinks/avarmead,
+		/datum/supply_pack/food/drinks/avarrice,
 		// Musical instruments - coastal culture
 		/datum/supply_pack/instruments/flute,
 		/datum/supply_pack/instruments/harp,
@@ -127,6 +131,10 @@
 		/datum/supply_pack/food/clownfish,
 		/datum/supply_pack/food/drinks/winevalorred,
 		/datum/supply_pack/food/drinks/winevalorwhite,
+		/datum/supply_pack/food/drinks/kgunlager,
+		/datum/supply_pack/food/drinks/kgunsake,
+		/datum/supply_pack/food/drinks/kgunplum,
+		/datum/supply_pack/food/drinks/kgunshochu,
 		// Weapons - refined coastal arms
 		/datum/supply_pack/weapons/ranged/longbow,
 		/datum/supply_pack/weapons/ranged/shortbow,
@@ -139,6 +147,8 @@
 		/datum/supply_pack/jewelry/silverring,
 		// Luxury goods
 		/datum/supply_pack/luxury/spectacles_golden,
+		/datum/supply_pack/luxury/zigs,
+		/datum/supply_pack/luxury/zigbox,
 		// Seeds
 		/datum/supply_pack/seeds/pear,
 		/datum/supply_pack/seeds/poppy
