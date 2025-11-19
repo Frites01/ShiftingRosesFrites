@@ -1,6 +1,6 @@
 /datum/advclass/mercenary/corsair
-	name = "Corsair"
-	tutorial = "Banished from polite society, you once found kin with privateers, working adjacent to a royal navy. After the Red Flag battered itself in the wind one last time, your purse was still not satisfied... And yet he complained that his belly was not full."
+	name = "City-state Mariner"
+	tutorial = "Born and raised to sail, the sea is more your home than land. You've sailed all of the straits and seen all of the sea, now you seek to make your fortune however suitable to you."
 	allowed_races = RACES_PLAYER_ALL
 	outfit = /datum/outfit/job/adventurer/corsair
 	category_tags = list(CTAG_MERCENARY)
@@ -28,7 +28,7 @@
 		H.adjust_skillrank(/datum/skill/combat/unarmed, 3, TRUE)
 		H.adjust_skillrank(/datum/skill/combat/wrestling, 4, TRUE) // Swords / Nonlethal.
 		H.adjust_skillrank(/datum/skill/labor/fishing, 3, TRUE)
-		H.adjust_skillrank(/datum/skill/misc/swimming, 4, TRUE)
+		H.adjust_skillrank(/datum/skill/misc/swimming, 5, TRUE)
 		H.adjust_skillrank(/datum/skill/misc/climbing, 5, TRUE) // For jumping off roofs. Don't lower.
 		H.adjust_skillrank(/datum/skill/misc/sneaking, 2, TRUE) // Most other classes have better Sneaking.
 		H.adjust_skillrank(/datum/skill/misc/lockpicking, 3, TRUE)

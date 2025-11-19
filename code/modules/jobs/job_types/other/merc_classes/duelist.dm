@@ -1,6 +1,6 @@
 /datum/advclass/mercenary/duelist
-	name = "Duelist"
-	tutorial = "A swordsman from Valoria, wielding a rapier with deadly precision and driven by honor and a thirst for coin, they duel with unmatched precision, seeking glory and wealth."
+	name = "City-State Duelist"
+	tutorial = "A swordsman from the City-states, wielding a rapier with deadly precision and driven by honor and a thirst for coin, they duel with unmatched precision, seeking glory and wealth."
 	allowed_races = RACES_PLAYER_ALL
 	outfit = /datum/outfit/job/mercenary/duelist
 	category_tags = list(CTAG_MERCENARY)

@@ -1,7 +1,7 @@
 /datum/advclass/mercenary/grenzelhoft
 	name = "Grenzelhoft Mercenary"
-	tutorial = "A mercenary from the Grenzelhoft Empire's Mercenary Guild. Their only care is coin, and the procurement of coin."
-	allowed_races = RACES_PLAYER_GRENZ
+	tutorial = "One of the many professional soldiers of Grenzelhoft's army, the end of the Fourth Domainer/Grenzelhoftian war has seen you ply your trade with one of the many Free Companies of Grenzelhoft's Mercenary Guild. Your only goal is coin, both for you and your kingdom."
+	allowed_races = RACES_PLAYER_ALL
 	outfit = /datum/outfit/job/mercenary/grenzelhoft
 	category_tags = list(CTAG_MERCENARY)
 	maximum_possible_slots = 5

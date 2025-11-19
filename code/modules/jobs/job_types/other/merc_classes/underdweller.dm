@@ -1,6 +1,6 @@
 /datum/advclass/mercenary/underdweller
-	name = "Underdweller"
-	tutorial = "A member of the Underdwellers, you've taken many of the deadliest contracts known to man in literal underground circles. Drow or Dwarf, you've put your differences aside for coin and adventure."
+	name = "Subterran"
+	tutorial = "One of the many peoples living in the harsh conditions of Subterra's many twisted caverns, you've put aside your differences with your fellow peoples trying to survive and have honed your skills via the daily struggles of life or death. The surface is a chance for you to show the surface dwellers just how soft they are compared to you."
 	allowed_races = list(\
 		SPEC_ID_DWARF,\
 		SPEC_ID_DROW,\

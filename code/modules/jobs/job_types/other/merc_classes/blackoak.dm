@@ -1,6 +1,6 @@
 /datum/advclass/mercenary/blackoak
 	name = "Black Oak's Guardian"
-	tutorial = "A shady guardian of the Black Oaks, a mercenary band in all but offical name. Commonly taking caravan contracts through the thickest of forests."
+	tutorial = "A shady guardian of the Black Oaks, a mercenary band in all but offical name. Commonly taking caravan contracts through all of Alur."
 	allowed_races = RACES_PLAYER_ELF
 	outfit = /datum/outfit/job/mercenary/blackoak
 	category_tags = list(CTAG_MERCENARY)

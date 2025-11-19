@@ -1,6 +1,6 @@
 /datum/advclass/mercenary/desert_pirate
-	name = "Desert Rider"
-	tutorial = "A pirate of rakshari origin, hailing from the wast dune-sea of Zaladin. Well trained riders and expirienced archers, these nomads live the life of marauders and raiders, taking what belongs to weaker settlements and caravans."
+	name = "Wilusian Desert Strider"
+	tutorial = "A corsair of the sands, the scorching sun and blistering heat have always been your allies in battle. You and your fellow Striders have been Wilusia's defenders for over a thousand years, yet now you ply your trade far away from the desert sands."
 	allowed_races = RACES_PLAYER_ALL
 	outfit = /datum/outfit/job/mercenary/desert_pirate
 	maximum_possible_slots = 3

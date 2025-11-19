@@ -1,17 +1,7 @@
 /datum/advclass/mercenary/zalad
-	name = "Red Sands"
-	tutorial = "A cutthroat from the western countries, you've headed into foreign lands to make even greater coin than you had prior."
-	allowed_races = list(\
-		SPEC_ID_HUMEN,\
-		SPEC_ID_RAKSHARI,\
-		SPEC_ID_ELF,\
-		SPEC_ID_HALF_ELF,\
-		SPEC_ID_DWARF,\
-		SPEC_ID_TIEFLING,\
-		SPEC_ID_DROW,\
-		SPEC_ID_AASIMAR,\
-		SPEC_ID_HALF_ORC,\
-	)
+	name = "Wilusian Red Cloak"
+	tutorial = "Hailing from Wilusia, you are the cutthroat secret guards of the nobles and dignitaries, noted by the crimson red you wear. Feared by many for your deadly skill, for some reason or another you've found your way out of Wilusia, and seek to ply your trade with other noblemen or well off individuals."
+	allowed_races = RACES_PLAYER_ALL
 	outfit = /datum/outfit/job/mercenary/zalad
 	category_tags = list(CTAG_MERCENARY)
 	maximum_possible_slots = 5

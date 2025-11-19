@@ -1,7 +1,7 @@
 /datum/advclass/mercenary/steppesman
 	name = "Steppesman"
 	tutorial = "A mercenary from hailing from the wild frontier steppes. There are three things you value most; saigas, freedom, and coin."
-	allowed_races = RACES_PLAYER_ALL
+	allowed_races = SPEC_ID_DWARF
 	outfit = /datum/outfit/job/mercenary/steppesman
 	category_tags = list(CTAG_MERCENARY)
 	maximum_possible_slots = 5

@@ -1,6 +1,6 @@
 /datum/advclass/mercenary/exiled
-	name = "Exiled Warrior"
-	tutorial = "A barbarian - you're a brute, and you're a long way from home. You took more of a liking to the blade than your elders wanted - in truth, they did not have to even deliberate to banish you. You will drown in ale, and your enemies in blood."
+	name = "Wandering Northman"
+	tutorial = "A fighter, a warrior, a barbarian. You're all of these, but most of all; you're a long way from home. Hailing from the North, whether it be the Tundras or Aldric's Peninsula, your reasons for travelling south are you own. Forge your path as you see fit."
 	allowed_races = RACES_PLAYER_ALL
 	outfit = /datum/outfit/job/mercenary/exiled
 	category_tags = list(CTAG_MERCENARY)
